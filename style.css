@@ -24,7 +24,7 @@
 main {
   display: block;
   background-color: var(--cor3);
-  width: 420px;
+  max-width: 420px;
   margin: 150px auto;  
   border-radius: 10px;
   box-shadow: 3px 3px 15px var(--cor2);
